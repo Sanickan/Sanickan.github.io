@@ -5,12 +5,13 @@ Developer built the Vocagame app as an Ad Supported app. This app is provided by
 This privacy policy is used to inform you regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
 
 1) Overview
+
 The app uses advertising (and in app payments) to make revenue. The app uses third party libraries for advertising which may collect and share personal information with third parties.
 
 Links to privacy policies of third party service providers used in the app:
-* [Appodeal]:https://app.appodeal.com/analytics/overview
-* [Google Play Services]
-* [AdMob]
+* [Appodeal](https://app.appodeal.com/analytics/overview)
+* [Google Play Services](https://policies.google.com/privacy)
+* [AdMob](https://support.google.com/admob/answer/6128543)
 
 2) Sharing Your Information
 
@@ -38,11 +39,11 @@ Retention:
 Google anonymizes the log data by removing part of the IP address (after 9 months) and cookie information (after 18 months)
 
 Online resources:
-* Privacy Policy
-* Opt out
-* Service Information
-* Partner policy
-* Ad technology providers
+* [Privacy Policy](https://policies.google.com/technologies/ads)
+* [Opt out](https://adssettings.google.com/authenticated)
+* [Service Information](https://privacy.google.com/businesses/adsservices/)
+* [Partner policy](https://policies.google.com/technologies/partner-sites)
+* [Ad technology providers](https://support.google.com/admob/answer/9012903)
 
 3.2 Google Play Services
 
@@ -59,10 +60,10 @@ Collected informations:
 Google use the collected information to provide, maintain, protect and improve Google's services, to develop new ones, and to protect Google and the users. Google also use this information to offer you tailored content ñ like giving you more relevant search results and ads.
 
 Online resources:
-* Appodeal Terms of Service
-* Privacy Policy Appodeal
-* Google Terms of Service
-* Google Privacy Policy
+* [Appodeal Terms of Service](https://appodeal.com/terms-of-service/)
+* [Privacy Policy Appodeal](https://www.appodeal.com/privacy-policy/)
+* [Google Terms of Service](https://policies.google.com/terms)
+* [Google Privacy Policy](https://policies.google.com/privacy)
 
 4) Security
 
@@ -79,7 +80,7 @@ These Services do not address anyone under the age of 16. I do not knowingly col
 7) Distribution
 
 The only official channel for distribution of this app are:
-* Google Play Store
+* [Google Play Store](https://play.google.com/store)
 
 Any other mode of distribution is not official and thus, is not maintained by the developer. This privacy policy is effective to distribution made on official channel only.
 
