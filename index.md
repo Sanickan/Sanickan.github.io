@@ -1,4 +1,4 @@
-<font-size: 20px>Privacy Policy
+##Privacy Policy
 
 Developer built the Vocagame app as an Ad Supported app. This app is provided by at no cost and is intended for use as is.
 
