@@ -8,9 +8,9 @@ This privacy policy is used to inform you regarding policies with the collection
 The app uses advertising (and in app payments) to make revenue. The app uses third party libraries for advertising which may collect and share personal information with third parties.
 
 Links to privacy policies of third party service providers used in the app:
-* Appodeal
-* Google Play Services
-* AdMob
+* [Appodeal]:https://app.appodeal.com/analytics/overview
+* [Google Play Services]
+* [AdMob]
 
 2) Sharing Your Information
 
